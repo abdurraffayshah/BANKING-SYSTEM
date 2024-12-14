@@ -1,70 +1,69 @@
 username,password,balance
-mike@123, m!ke1234, 2000
-sara$54321, S@ra54321, 3500
-david@1111, D@v1d1111, 700
-lucas@2222, L@c@s2222, 1200
-emma$3333, Emm@3333, 900
-olivia@4444, 0l!v!@4444, 1500
-noah!5555, N0@h!5555, 800
-mia$6666, M!@6666, 2500
-james@7777, J@m3s7777, 4000
-sophia!8888, S0ph!@8888, 550
-ben@9999, B3n@9999, 2100
-lily$1010, L!ly$1010, 3000
-jack@2020, J@ck2020, 1700
-ava!3030, @v@3030, 4500
-will@4040, W!ll@4040, 3200
-zoe$5050, Z0e$5050, 6400
-daniel@6060, D@n!3l6060, 2200
-ella$7070, 3ll@7070, 300
-charlie@8080, Ch@rl!e8080, 1100
-grace!9090, Gr@c3!9090, 3900
-liam@1212, L!@m1212, 1500
-hannah$1313, H@nn@h1313, 4800
-ethan@1414, 3th@N1414, 3800
-amelia$1515, Am3l!@1515, 1600
-sam@1616, S@M@1616, 2200
-isla!1717, !s!@1717, 2500
-joseph@1818, J0s3ph@1818, 700
-lucy$1919, L#cy$1919, 900
-ryan@2020, Ry@n2020, 3200
-molly!2121, M0lly!2121, 2100
-max$2222, M@x$2222, 4200
-rebecca@2323, R3b3cc@2323, 3500
-toby!2424, T0by!2424, 2800
-chloe$2525, Chl0e$2525, 500
-jake@2626, J@k3@2626, 3200
-sophie!2727, S0ph!@2727, 1000
-harry@2828, H@rry@2828, 2500
-aiden$2929, A!d3n$2929, 2700
-evie@3030, Ev!3@3030, 4500
-rylee!3131, Ry!e@3131, 1000
-katie$3232, K@t!e$3232, 1600
-owen@3333, 0w3n@3333, 3100
-nina!3434, N!n@3434, 2200
-grace$3535, Gr@c3$3535, 1800
-liam@3636, L!@m@3636, 4300
-quinn!3737, Q!nN@3737, 2700
-josephine@3838, J0s3ph!n@3838, 3900
-finn$3939, F!nn$3939, 3100
-leo@4040, L30@4040, 1500
-bella$4141, B3ll@4141, 800
-matt@4242, M@tt@4242, 2000
-penny!4343, P3nny!4343, 6500
-samuel@4444, S@muel@4444, 4200
-daisy$4545, D@!sy$4545, 5400
-elizabeth@4646, E!izabeth@4646, 2800
-henry!4747, H3nry!4747, 4500
-jude@4848, J!ud3@4848, 2200
-zara$4949, Z@r@4949, 3500
-evan@5050, 3v@N@5050, 1200
-lucas!5151, L!c@5!5151, 700
-michael@5252, M!ch@3l@5252, 5000
-ellen$5353, Ell3n$5353, 400
-paul@5454, P@ul@5454, 2200
-george!5555, G3org3!5555, 3900
-layla@5656, L@yl@5656, 500
-connor$5757, C0nnor$5757, 3800
-chris@5858, Chr!s@5858, 2200
-mary!5959, M@ry!5959, 4200
-
+mike@123,m!ke1234,2000
+sara$54321,S@ra54321,3500
+david@1111,D@v1d1111,700
+lucas@2222,L@c@s2222,1200
+emma$3333,Emm@3333,900
+olivia@4444,0l!v!@4444,1500
+noah!5555,N0@h!5555,800
+mia$6666,M!@6666,2500
+james@7777,J@m3s7777,4000
+sophia!8888,S0ph!@8888,550
+ben@9999,B3n@9999,2100
+lily$1010,L!ly$1010,3000
+jack@2020,J@ck2020,1700
+ava!3030,@v@3030,4500
+will@4040,W!ll@4040,3200
+zoe$5050,Z0e$5050,6400
+daniel@6060,D@n!3l6060,2200
+ella$7070,3ll@7070,300
+charlie@8080,Ch@rl!e8080,1100
+grace!9090,Gr@c3!9090,3900
+liam@1212,L!@m1212,1500
+hannah$1313,H@nn@h1313,4800
+ethan@1414,3th@N1414,3800
+amelia$1515,Am3l!@1515,1600
+sam@1616,S@M@1616,2200
+isla!1717,!s!@1717,2500
+joseph@1818,J0s3ph@1818,700
+lucy$1919,L#cy$1919,900
+ryan@2020,Ry@n2020,3200
+molly!2121,M0lly!2121,2100
+max$2222,M@x$2222,4200
+rebecca@2323,R3b3cc@2323,3500
+toby!2424,T0by!2424,2800
+chloe$2525,Chl0e$2525,500
+jake@2626,J@k3@2626,3200
+sophie!2727,S0ph!@2727,1000
+harry@2828,H@rry@2828,2500
+aiden$2929,A!d3n$2929,2700
+evie@3030,Ev!3@3030,4500
+rylee!3131,Ry!e@3131,1000
+katie$3232,K@t!e$3232,1600
+owen@3333,0w3n@3333,3100
+nina!3434,N!n@3434,2200
+grace$3535,Gr@c3$3535,1800
+liam@3636,L!@m@3636,4300
+quinn!3737,Q!nN@3737,2700
+josephine@3838,J0s3ph!n@3838,3900
+finn$3939,F!nn$3939,3100
+leo@4040,L30@4040,1500
+bella$4141,B3ll@4141,800
+matt@4242,M@tt@4242,2000
+penny!4343,P3nny!4343,6500
+samuel@4444,S@muel@4444,4200
+daisy$4545,D@!sy$4545,5400
+elizabeth@4646,E!izabeth@4646,2800
+henry!4747,H3nry!4747,4500
+jude@4848,J!ud3@4848,2200
+zara$4949,Z@r@4949,3500
+evan@5050,3v@N@5050,1200
+lucas!5151,L!c@5!5151,700
+michael@5252,M!ch@3l@5252,5000
+ellen$5353,Ell3n$5353,400
+paul@5454,P@ul@5454,2200
+george!5555,G3org3!5555,3900
+layla@5656,L@yl@5656,500
+connor$5757,C0nnor$5757,3800
+chris@5858,Chr!s@5858,2200
+mary!5959,M@ry!5959,4200
