@@ -190,5 +190,7 @@ def delete():
     else:
         print("Account not found or incorrect credentials.")
         sys.exit("Exiting program.")
+
+
 if __name__ == "__main__":
     main()
